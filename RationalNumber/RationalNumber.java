@@ -1,4 +1,5 @@
 // RATIONAL NUMBER REPRESENTED USING JAVA MATH BIG INTEGER
+package RationalNumber;
 import java.math.*;
 
 
